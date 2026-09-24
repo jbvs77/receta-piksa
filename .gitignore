@@ -1,2 +1,9 @@
-.vercel
-.gitignore
+.next/
+node_modules/
+.vercel/
+.vscode/
+*.env
+*.env*.local
+*.mov
+*.MOV
+.DS_Store
